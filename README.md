@@ -1,6 +1,6 @@
 # watchdir
 
-VB6 working copy of `watchdir` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Project1. `VersionCompanyName`: Southern Cross Software.
+Southern Cross Software VB6 directory watcher (`WATCHDIR.VBP`) that uses `FindFirstChangeNotification` / `WaitForSingleObject` to Begin/Stop watching a folder for file-system changes. Open `WATCHDIR.VBP` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -8,7 +8,7 @@ VB6 working copy of `watchdir` from Dave Robinson's OneDrive Historical Dev `VB`
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `Project1` (`WATCHDIR.VBP`) | VB6 | WinForms exe | Project1 |
+| `Project1` (`WATCHDIR.VBP`) | VB6 | WinForms exe | Watch a directory for change notifications |
 
 ## How to open
 
