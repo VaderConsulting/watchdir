@@ -21,7 +21,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/watchdir`.
+Working copy from my Historical Dev folder `VB/watchdir`.
 Company names in `.vbp` files: Southern Cross Software.
 Third-party attribution: Southern Cross Software. See `THIRD_PARTY_NOTICES.md`.
 
