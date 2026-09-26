@@ -2,7 +2,7 @@
 
 Southern Cross Software VB6 directory watcher (`WATCHDIR.VBP`) that uses `FindFirstChangeNotification` / `WaitForSingleObject` to Begin/Stop watching a folder for file-system changes. Open `WATCHDIR.VBP` in the VB6 IDE.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
+**Source last updated:** 1997-12-16 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
 ## Solution structure
 
